@@ -3,7 +3,7 @@
 このリポジトリは **VBA (Visual Basic for Applications)** で書かれた  
 **Google Chrome のバージョンに合わせて Chromedriver を自動更新するスクリプト** です。  
 主に **SeleniumBasic** を利用する環境で、Chromedriver のバージョン不一致エラーを防ぐために作成されています。
-
+※https://github.com/javeo2022/webdriver_manager_VBA の簡易版ですが普通に使っていればこちらでも問題なくVBA-JSON不要です
 ---
 
 ## 特徴
